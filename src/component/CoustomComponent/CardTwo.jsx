@@ -4,7 +4,7 @@ import { styled } from '@mui/material/styles';
 
 const StyledCard = styled(Card)(({ theme }) => ({
   position: 'relative',
-  width: 'calc(33.333% - 16px)', // Three cards fit side by side
+  width: 'calc(33.333% - 16px)', 
   height: '250px',
   overflow: 'hidden',
   borderRadius: 8,

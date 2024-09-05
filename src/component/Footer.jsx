@@ -21,7 +21,7 @@ const Footer = () => {
     return (
         <FooterContainer>
             <Typography variant="body2">
-                Copyright 2024 ©All Rights Reserved.            </Typography>
+                Copyright 2024 ©All Rights Reserved. </Typography>
             <SocialIcons>
                 <IconButton href="https://facebook.com" target="_blank" aria-label="Facebook">
                     <Facebook />
